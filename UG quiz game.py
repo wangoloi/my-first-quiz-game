@@ -15,7 +15,7 @@ if answer == "Uganda":
 else:
     print("incorrect!")
 
-answer = input("How nany Sub Counties are in Uganda? ")
+answer = input("How many Sub Counties are in Uganda? ")
 if answer == "1488":
     print("correct!")
     score += 1
